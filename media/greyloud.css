@@ -1,0 +1,19 @@
+.kv-grid-toolbar button.ui-corner-all{
+    border-radius: 0 4px 4px 0 !important;
+    height: 34px;
+}
+
+.kv-grid-toolbar button.ui-corner-all > span.ui-button-text{
+    background: #fff;
+}
+.container {
+    width: auto;
+    max-width: 1240px;
+}
+.navbar-inverse {
+    background-color: #337ab7;
+    border-color: #337ab7;
+}
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}

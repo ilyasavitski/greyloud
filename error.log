@@ -1,0 +1,550 @@
+2017/10/24 03:05:29 [error] 22326#22326: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "greyloud.dev"
+2017/10/24 03:06:47 [error] 22326#22326: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "greyloud.dev"
+2017/10/24 03:06:47 [error] 22326#22326: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "greyloud.dev"
+2017/10/24 03:06:48 [error] 22326#22326: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "greyloud.dev"
+2017/10/24 03:06:49 [error] 22326#22326: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "greyloud.dev"
+2017/10/24 03:13:35 [error] 22992#22992: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "greyloud.dev"
+2017/10/24 03:13:36 [error] 22992#22992: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "greyloud.dev"
+2017/10/24 03:21:39 [crit] 23570#23570: *1 connect() to unix:/run/php7.0-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php7.0-fpm.sock:", host: "greyloud.dev"
+2017/10/24 03:21:39 [crit] 23570#23570: *1 connect() to unix:/run/php7.0-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php7.0-fpm.sock:", host: "greyloud.dev"
+2017/10/24 03:21:40 [crit] 23570#23570: *1 connect() to unix:/run/php7.0-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php7.0-fpm.sock:", host: "greyloud.dev"
+2017/10/24 03:21:40 [crit] 23570#23570: *1 connect() to unix:/run/php7.0-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php7.0-fpm.sock:", host: "greyloud.dev"
+2017/10/24 03:21:40 [crit] 23570#23570: *1 connect() to unix:/run/php7.0-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php7.0-fpm.sock:", host: "greyloud.dev"
+2017/10/24 03:21:40 [crit] 23570#23570: *1 connect() to unix:/run/php7.0-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php7.0-fpm.sock:", host: "greyloud.dev"
+2017/10/24 03:21:40 [crit] 23570#23570: *1 connect() to unix:/run/php7.0-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php7.0-fpm.sock:", host: "greyloud.dev"
+2017/10/24 03:21:41 [crit] 23570#23570: *1 connect() to unix:/run/php7.0-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php7.0-fpm.sock:", host: "greyloud.dev"
+2017/10/24 03:21:41 [crit] 23570#23570: *1 connect() to unix:/run/php7.0-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php7.0-fpm.sock:", host: "greyloud.dev"
+2017/10/24 03:21:41 [crit] 23570#23570: *1 connect() to unix:/run/php7.0-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php7.0-fpm.sock:", host: "greyloud.dev"
+2017/10/24 03:21:41 [crit] 23570#23570: *1 connect() to unix:/run/php7.0-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php7.0-fpm.sock:", host: "greyloud.dev"
+2017/10/24 03:21:41 [crit] 23570#23570: *1 connect() to unix:/run/php7.0-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/run/php7.0-fpm.sock:", host: "greyloud.dev"
+2017/10/24 05:20:31 [error] 23781#23781: *152 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Class app\models\User contains 2 abstract methods and must therefore be declared abstract or implement the remaining methods (yii\web\IdentityInterface::getAuthKey, yii\web\IdentityInterface::validateAuthKey) in /var/www/greyloud/models/User.php on line 16
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/greyloud/web/index.php:0
+PHP message: PHP   2. yii\web\Application->run() /var/www/greyloud/web/index.php:12
+PHP message: PHP   3. yii\web\Application->handleRequest() /var/www/greyloud/vendor/yiisoft/yii2/base/Application.php:380
+PHP message: PHP   4. yii\web\Application->runAction() /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php:102
+PHP message: PHP   5. app\controllers\SiteController->runAction() /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:523
+PHP message: PHP   6. yii\base\InlineAction->runWithParams() /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:156
+PHP message: PHP   7. call_user_func_array:{/var/www/greyloud/vendor/yiisoft/yii2/base/InlineAction.php:57}() /var/www/greyloud/vendor/yiisoft/yii2/base/InlineAction.php:57
+PHP message: PHP   8. app\controllers\SiteController->actionLogin() /var/www/greyloud/vendor/yiisoft/yii2/base/InlineAction.php:57
+PHP message: PHP   9. app\models\LoginForm->login() /var/www/greyloud/controllers/SiteController.php:75
+PHP message: PHP  10. app\models\LoginForm->validate() /var/www/greyloud/models/LoginForm.php:62
+PHP message: PHP  11. yii\validators\InlineValidator->validateAttributes() /var/www/greyloud/vendor/yiisoft/yii2/base/Model.php:358
+PHP message: PHP  12. yii\validators\InlineValidator->validateAttribute() /var/www/greyloud/vendor/yiisoft/yii2/validators/Validator.php:266
+PHP message: PHP  13. call_user_func:{/var/www/greyloud/vendor/yiisoft/yii2/validators/InlineValidator.php:72}() /var/www/greyloud/vendor/yiisoft/yii2/validators/InlineValidator.php:72
+PHP message: PHP  14. app\models\LoginForm->validatePassword
+2017/10/25 08:16:25 [error] 17500#17500: *144 FastCGI sent in stderr: "PHP message: PHP Warning:  Uncaught yii\base\ErrorException: require(/var/www/greyloud/views/site/_columns.php): failed to open stream: No such file or directory in /var/www/greyloud/views/site/index.php:27
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/View.php(250): yii\web\View->renderPhpFile()
+#1 /var/www/greyloud/vendor/yiisoft/yii2/base/View.php(152): yii\web\View->renderFile()
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php(381): yii\web\View->render()
+#3 /var/www/greyloud/controllers/SiteController.php(41): app\controllers\SiteController->render()
+#4 /var/www/greyloud/vendor/yiisoft/yii2/base/InlineAction.php(57): app\controllers\SiteController->actionIndex()
+#5 /var/www/greyloud/vendor/yiisoft/yii2/base/InlineAction.php(57): ::call_user_func_array:{/var/www/greyloud/vendor/yiisoft/yii2/base/InlineAction.php:57}()
+#6 /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php(156): yii\base\InlineAction->runWithParams()
+#7 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.ph...
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /var/www/greyloud/web/index.php:0
+PHP message: PHP   2. yii\web\Application->run() /var/www/greyloud/web/index.php:12
+PHP message: PHP   3. yii\web\Application->handleRequest() /var/www/greyloud/vendor/yiisoft/yii2/base/Application.php:380
+PHP message: PHP   4. yii\web\Application->runAction() /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php:102
+PHP message: PHP   5. app\controllers\SiteController->runAction() /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:523
+PHP message: PHP   6. yii\base\InlineAction->runWithParams() /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:156
+PHP message: PHP   7. call_user_func_array:{/var/www/greyloud/vendor/yiisoft/yii2/base/InlineAction.php:57}() /var/www/greyloud/vendor/yiisoft/yii2/base/InlineAction.php:57
+PHP message: PHP   8. app\controllers\SiteController->actionIndex() /var/www/greyloud/vendor/yiisoft/yii2/base/Inl
+2017/10/25 08:16:25 [error] 17500#17500: *144 FastCGI sent in stderr: "ud/vendor/yiisoft/yii2/base/View.php:250
+PHP message: PHP  13. require() /var/www/greyloud/vendor/yiisoft/yii2/base/View.php:330" while reading response header from upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/index.php"
+2017/10/25 08:17:17 [error] 17500#17500: *144 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ModalRemote.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greylo" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ModalRemote.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/index.php"
+2017/10/25 08:17:17 [error] 17500#17500: *147 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ajaxcrud.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greyloud/" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ajaxcrud.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/index.php"
+2017/10/25 08:17:18 [error] 17500#17500: *147 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ModalRemote.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greylo" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ModalRemote.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/index.php"
+2017/10/25 08:17:18 [error] 17500#17500: *147 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ajaxcrud.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greyloud/" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ajaxcrud.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/index.php"
+2017/10/25 08:20:02 [error] 17500#17500: *155 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ajaxcrud.css". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greyloud" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ajaxcrud.css HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/index.php"
+2017/10/25 08:20:02 [error] 17500#17500: *160 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ModalRemote.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greylo" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ModalRemote.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/index.php"
+2017/10/25 08:20:02 [error] 17500#17500: *157 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ajaxcrud.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greyloud/" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ajaxcrud.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/index.php"
+2017/10/25 08:20:02 [error] 17500#17500: *160 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ModalRemote.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greylo" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ModalRemote.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/index.php"
+2017/10/25 08:20:02 [error] 17500#17500: *160 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ajaxcrud.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greyloud/" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ajaxcrud.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/index.php"
+2017/10/25 08:20:05 [error] 17500#17500: *158 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ModalRemote.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greylo" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ModalRemote.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:20:05 [error] 17500#17500: *160 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ajaxcrud.css". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greyloud" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ajaxcrud.css HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:20:05 [error] 17500#17500: *155 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ajaxcrud.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greyloud/" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ajaxcrud.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:20:05 [error] 17500#17500: *160 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ModalRemote.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greylo" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ModalRemote.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:20:05 [error] 17500#17500: *160 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ajaxcrud.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greyloud/" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ajaxcrud.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:20:19 [error] 17500#17500: *155 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ModalRemote.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greylo" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ModalRemote.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:20:19 [error] 17500#17500: *160 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ajaxcrud.css". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greyloud" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ajaxcrud.css HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:20:19 [error] 17500#17500: *158 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ajaxcrud.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greyloud/" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ajaxcrud.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:20:19 [error] 17500#17500: *160 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ModalRemote.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greylo" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ModalRemote.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:20:19 [error] 17500#17500: *160 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ajaxcrud.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greyloud/" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ajaxcrud.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:20:26 [error] 17500#17500: *160 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request ""/assets/3ac7bb11/jquery.js/"". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('"/assets/3ac7bb...', Array)
+#1 /var/www/greylou" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /%22/assets/3ac7bb11/jquery.js/%22?_=1508908819517 HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/create"
+2017/10/25 08:20:26 [error] 17500#17500: *160 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request ""/assets/cf7c3f13/yii.js/"". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('"/assets/cf7c3f...', Array)
+#1 /var/www/greyloud/v" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /%22/assets/cf7c3f13/yii.js/%22?_=1508908819518 HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/create"
+2017/10/25 08:20:26 [error] 17500#17500: *160 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request ""/assets/cf7c3f13/yii.validation.js/"". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('"/assets/cf7c3f...', Array)
+#1 /var/www" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /%22/assets/cf7c3f13/yii.validation.js/%22?_=1508908819519 HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/create"
+2017/10/25 08:20:26 [error] 17500#17500: *160 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request ""/assets/cf7c3f13/yii.activeForm.js/"". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('"/assets/cf7c3f...', Array)
+#1 /var/www" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /%22/assets/cf7c3f13/yii.activeForm.js/%22?_=1508908819520 HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/create"
+2017/10/25 08:20:32 [error] 17500#17500: *158 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ajaxcrud.css". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greyloud" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ajaxcrud.css HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:20:32 [error] 17500#17500: *159 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ModalRemote.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greylo" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ModalRemote.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:20:32 [error] 17500#17500: *157 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ajaxcrud.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greyloud/" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ajaxcrud.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:20:33 [error] 17500#17500: *157 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ModalRemote.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greylo" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ModalRemote.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:20:33 [error] 17500#17500: *157 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ajaxcrud.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greyloud/" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ajaxcrud.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:22:57 [error] 17501#17501: *198 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ModalRemote.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greylo" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ModalRemote.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:22:57 [error] 17501#17501: *197 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/greyloud.css". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greyloud" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/greyloud.css HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:22:57 [error] 17501#17501: *201 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ajaxcrud.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greyloud/" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ajaxcrud.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:22:57 [error] 17501#17501: *201 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ModalRemote.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greylo" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ModalRemote.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:22:57 [error] 17501#17501: *201 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ajaxcrud.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greyloud/" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ajaxcrud.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:22:58 [error] 17501#17501: *201 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/greyloud.css". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greyloud" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/greyloud.css HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:23:06 [error] 17501#17501: *201 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/bb950eb7/ModalRemote.js". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/bb950eb7...', Array)
+#1 /var/www/greylo" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/bb950eb7/ModalRemote.js HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev"
+2017/10/25 08:24:06 [error] 17501#17501: *214 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/6ab9041a/greyloud.css". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/6ab9041a...', Array)
+#1 /var/www/greyloud" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/6ab9041a/greyloud.css HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:24:09 [error] 17501#17501: *215 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "assets/6ab9041a/greyloud.css". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('assets/6ab9041a...', Array)
+#1 /var/www/greyloud" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /assets/6ab9041a/greyloud.css HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev", referrer: "http://greyloud.dev/site/index"
+2017/10/25 08:56:07 [error] 17502#17502: *574 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: site/error in /var/www/greyloud/vendor/yiisoft/yii2/base/Controller.php:127
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php(523): yii\base\Controller->runAction('error', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module->runAction('site/error')
+#2 /var/www/greyloud/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "about". in /var/www/greyloud/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/greyloud/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('about', Array)
+#1 /var/www/greyloud/vendor/yiisoft/yii2/base/Applicatio" while reading upstream, client: 127.0.0.1, server: greyloud.dev, request: "GET /about HTTP/1.1", upstream: "fastcgi://unix:/run/php/php7.0-fpm.sock:", host: "greyloud.dev"
